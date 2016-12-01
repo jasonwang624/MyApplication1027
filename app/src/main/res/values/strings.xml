@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application1027</string>
+    <string-array name="country">
+        <item>台灣</item>
+        <item>美國</item>
+        <item>日本</item>
+        <item>泰國</item>
+        <item>韓國</item>
+        <item>義大利</item>
+    </string-array>
+    <string name="title_activity_main">MainActivity</string>
+</resources>
